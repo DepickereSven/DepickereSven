@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=DepickereSven&show_icons=true&theme=tokyonight)
 
