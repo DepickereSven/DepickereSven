@@ -6,11 +6,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-Java       2 hrs 15 mins   ███████████████░░░░░░░░░░   60.57 % 
-SQL        28 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.66 % 
-XML        25 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
-Markdown   21 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-JSON       5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
