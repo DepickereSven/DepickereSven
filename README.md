@@ -7,12 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-Java             2 hrs 39 mins   ██████████████░░░░░░░░░░░   55.41 %
-JSON             44 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
-TypeScript       40 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.90 %
-FTL              18 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
-Markdown         11 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 %
-JavaScript       5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.75 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
