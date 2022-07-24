@@ -7,9 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```text
-YAML             24 mins         █████████████████████████   99.49 %
-Markdown         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
