@@ -7,7 +7,12 @@
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+TypeScript   1 hr 17 mins    ████████████▒░░░░░░░░░░░░   49.87 %
+JSON         41 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.47 %
+Java         17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.50 %
+textmate     6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 %
+yarn.lock    6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
+SCSS         5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 %
 ```
 
 <!--END_SECTION:waka-->
