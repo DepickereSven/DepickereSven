@@ -7,7 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Java              1 hr 3 mins     ███████████████████████▓░   94.46 %
+Java Properties   1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+textmate          1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.22 %
+INI               0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+Markdown          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
