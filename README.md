@@ -7,10 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript           7 mins          ██████████░░░░░░░░░░░░░░░   39.79 %
-YAML                 6 mins          █████████░░░░░░░░░░░░░░░░   35.49 %
-Markdown             4 mins          ██████▒░░░░░░░░░░░░░░░░░░   24.68 %
-Helm TEXT template   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
