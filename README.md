@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 39 mins    █████████████████░░░░░░░░   67.55 %
-TypeScript   31 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.67 %
-YAML         13 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
-JSON         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.60 %
-Java         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
