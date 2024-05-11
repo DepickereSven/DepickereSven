@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-YAML          29 mins         ████████████░░░░░░░░░░░░░   48.18 %
-JSON          11 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-Go            7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 %
-TypeScript    7 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Markdown      5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
