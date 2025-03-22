@@ -7,11 +7,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        12 hrs 41 mins  ████████████████████░░░░░   80.14 %
-YAML              1 hr 29 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.38 %
-JSON              1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
-Project Details   14 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 %
-GitIgnore file    4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
+TypeScript        10 hrs 37 mins  ██████████████████▓░░░░░░   74.86 %
+YAML              1 hr 19 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.31 %
+JSON              1 hr 15 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
+Java              31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Project Details   15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
 ```
 
 <!--END_SECTION:waka-->
