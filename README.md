@@ -7,11 +7,7 @@
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        1 hr 28 mins    ███████████████████████░░   92.49 %
-SCSS              5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
-JSON              0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
-yarn.lock         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
-Project Details   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
